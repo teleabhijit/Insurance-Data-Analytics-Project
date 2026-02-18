@@ -1,13 +1,13 @@
 # Insurance-Data-Analytics-Project
 
 Insurance Data Analytics Dashboard
-Project Overview
+**Project Overview**
 
 This project focuses on analyzing insurance business data to generate actionable insights related to policy performance, premium growth, claim trends, and customer behavior. The objective is to transform raw operational data into interactive dashboards that support business decision-making.
 
-The project was implemented end-to-end using Excel, SQL, Tableau, and Power BI, ensuring consistent KPIs and validated analytics across multiple tools.
+The project was implemented end-to-end using **Excel, SQL, Tableau, and Power BI**, ensuring consistent KPIs and validated analytics across multiple tools.
 
-Tools & Technologies
+**Tools & Technologies**
 
 Microsoft Excel – Data cleaning, transformation, and initial dashboard
 
@@ -19,7 +19,7 @@ Power BI – Final executive dashboards using DAX measures
 
 Power Query / DAX – Data modeling and advanced calculations
 
-Dataset Description
+**Dataset Description**
 
 The dataset contains insurance operational data including:
 
@@ -37,7 +37,7 @@ Policy status and claim status
 
 The analysis covers multiple years of policy and claim transactions to evaluate business performance trends.
 
-Key KPIs Analyzed
+**Key KPIs Analyzed**
 
 Total Policies
 
@@ -59,7 +59,7 @@ Payment Status Analysis
 
 Policy Status & Expiry Trends
 
-Dashboard Pages
+**Dashboard Pages**
 1. Business Overview
 
 KPI summary cards
@@ -90,7 +90,7 @@ Payment status analysis
 
 Claim approval trends
 
-SQL Analysis
+**SQL Analysis**
 
 SQL queries were used to:
 
@@ -102,7 +102,7 @@ Perform year-wise premium growth analysis
 
 Validate dashboard KPIs using GROUP BY, JOIN, and aggregation functions
 
-Project Workflow
+**Project Workflow**
 
 Data Cleaning & Preparation (Excel / SQL)
 
@@ -114,7 +114,7 @@ Final Executive Dashboard (Power BI)
 
 Presentation & Business Insight Reporting
 
-Key Outcomes
+**Key Outcomes**
 
 Identified premium growth and decline periods
 
@@ -124,7 +124,7 @@ Analyzed customer demographic policy distribution
 
 Built interactive dashboards enabling dynamic business insights
 
-Author
+**Author**
 
 Abhijit Tele
 Data Analytics Project Portfolio
